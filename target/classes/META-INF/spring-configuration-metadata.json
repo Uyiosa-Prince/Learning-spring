@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.frankmoley.lil.learningspring.LearningSpringApplication",
+      "sourceType": "com.frankmoley.lil.learningspring.LearningSpringApplication"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
